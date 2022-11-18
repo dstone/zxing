@@ -24,11 +24,11 @@
   <dependencies>
     <dependency>
       <groupId>com.google.zxing</groupId>
-      <artifactId>core</artifactId>
+      <artifactId>zxing-core</artifactId>
     </dependency>
     <dependency>
       <groupId>com.google.zxing</groupId>
-      <artifactId>javase</artifactId>
+      <artifactId>zxing-javase</artifactId>
     </dependency>
     <dependency>
       <groupId>javax</groupId>
